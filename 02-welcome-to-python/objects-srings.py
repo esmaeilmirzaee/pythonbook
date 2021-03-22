@@ -1,7 +1,7 @@
-// Literal: a piece of syntax that creates an object 
-// String: an immutable sequence of text characters
-// Text characters: all the character you can type with your keyboard
-// Immutable == Incapable
+# Literal: a piece of syntax that creates an object 
+# String: an immutable sequence of text characters
+# Text characters: all the character you can type with your keyboard
+# Immutable == Incapable
 
 "sushi"
 'sushi'
