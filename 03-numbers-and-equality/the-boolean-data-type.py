@@ -1,9 +1,9 @@
 # Boolean: a data type that can be either true or false.
-print(True)
-print(False)
+print('True', True)
+print('False', False)
 
-print('True')
-print('False')
+print("'True'", 'True')
+print("'False'", 'False')
 
 print(5 == 5)
 print(3.0 == 3)
