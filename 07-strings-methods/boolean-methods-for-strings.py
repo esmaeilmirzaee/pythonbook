@@ -8,12 +8,12 @@ print('A Book'.istitle())
 print('a Book'.istitle())
 
 print('abcdef'.isalpha())
-print('abcdef1'.islapha())
-print('acb1'.islapha())
+print('abcdef1'.isalpha())
+print('acb1'.isalpha())
 
 print('123'.isnumeric())
-print(123.isnumberic())
-print('12!@'.isnumberic())
+print(str(123).isnumeric())
+print('12!@'.isnumeric())
 
 print('Numero 1'.isalnum())
 print('Numero1'.isalnum())
